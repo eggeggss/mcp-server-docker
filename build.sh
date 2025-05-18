@@ -1,0 +1,1 @@
+docker build -t mcpserver:01 --no-cache .
